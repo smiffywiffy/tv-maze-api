@@ -20,3 +20,7 @@ advanced front-end development.
 Yours sincerely
 
 Smiffy
+
+![Screenshot](public/Screenshot.png)
+
+![Screenshot](public/Screenshot2.png)
