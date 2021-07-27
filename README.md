@@ -1,21 +1,19 @@
-# Hello World example
+# Tv Maze API Test
 
-This example shows the most basic idea behind Next. We have 2 pages: `pages/index.js` and `pages/about.js`. The former responds to `/` requests and the latter to `/about`. Using `next/link` you can add hyperlinks between them with universal routing capabilities. The `day` directory shows that you can have subdirectories.
+I have managed to get a couple of pages hooked up and styled.
+However, as I am relatively new to React world, I could not
+set up Redux in a short space of time. I understand the principles
+of it but could not get anything basic set up, so I concentrated
+on other areas of the requirements.
 
-## Deploy your own
+Also, I would of liked to have coded in Typescript and added some
+Jest tests but this is also new for me.
 
-Deploy the example using [Vercel](https://vercel.com):
+I could obviously improve over a few days but the requirements were for no
+more than six hours.
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/vercel/next.js/tree/canary/examples/hello-world)
+Overall, you can see I am still 'work in progress' when it comes to more
+advanced front-end development.
 
-## How to use
-
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init) or [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/) to bootstrap the example:
-
-```bash
-npx create-next-app --example hello-world hello-world-app
-# or
-yarn create next-app --example hello-world hello-world-app
-```
-
-Deploy it to the cloud with [Vercel](https://vercel.com/import?filter=next.js&utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
+Yours sincerely
+Smiffy

@@ -9,12 +9,6 @@ import ShowTitle from "../components/ShowTitle";
 import ShowEpisodesTitle from "../components/ShowEpisodesTitle";
 import ShowEpisodes from "../components/ShowEpisodes";
 
-// could not figure out Redux
-
-// need to do in TS
-
-// need to add jest tests
-
 const showDetailEndPoint = `https://api.tvmaze.com/shows/6771`;
 const episodesEndPoint = "https://api.tvmaze.com/shows/6771/episodes";
 
